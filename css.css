@@ -21,7 +21,7 @@ ul {
     margin-bottom: 30px;
     padding: 0;
     width: 100%;
-    margin:  0;
+    margin: 0;
     border-radius: 0;
 }
 
@@ -41,7 +41,7 @@ li a:hover {
 h1 {
     text-align: center;
     color: rgb(255, 127, 21);
-    margin : 24px;
+    margin: 24px;
     font-size: 28px;
 }
 
@@ -59,10 +59,73 @@ div {
 
 
 .paragraph {
+
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: #374151;
     line-height: 1.8;
     font-size: 15px;
-    text-shadow: 0 4px 10px rgba(255, 111, 45, 0.914),0 4px 12px rgba(0, 0, 0, 0.1);
+    text-shadow: 0 4px 10px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.paragraphone {
+    font-family: "Nova Round", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+    color: #374151;
+    line-height: 1.8;
+    font-size: 15px;
+    text-shadow: 0 4px 10px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.paragraph1 {
+    font-family: "Capriola", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+    color: #374151;
+    line-height: 1.8;
+    font-size: 15px;
+    text-shadow: 0 4px 10px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    border-radius: 8px;
+
+}
+
+.paragraph2 {
+    font-family: "Junge", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+    color: #374151;
+    line-height: 1.8;
+    font-size: 15px;
+    text-shadow: 0 4px 10px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+
+.paragraph3 {
+    font-family: "Kelly Slab", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    color: #374151;
+    line-height: 1.8;
+    font-size: 15px;
+    text-shadow: 0 4px 10px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
     box-shadow: 0 4px 12px rgba(255, 111, 45, 0.914), 0 4px 12px rgba(0, 0, 0, 0.1);
     padding: 15px;
     border-radius: 8px;
@@ -73,6 +136,3 @@ img {
     border-radius: 8px;
     flex-shrink: 0;
 }
-
-
-
